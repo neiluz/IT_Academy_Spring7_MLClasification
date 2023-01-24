@@ -8,7 +8,7 @@
 * Aplicar los algoritmos de aprendizaje supervisado con Clasificación para la predicción de los tipos de Vinos.
 
 ### Definición de las variables:
-
+https://archive.ics.uci.edu/ml/datasets/Wine
 
 ### Estructura del repositorio:
 * Carga del Dataset
@@ -30,3 +30,4 @@
 
 
 ### Fuentes utilizadas:
+https://archive.ics.uci.edu/ml/datasets/Wine
